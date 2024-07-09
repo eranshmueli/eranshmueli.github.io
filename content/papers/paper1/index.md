@@ -2,17 +2,17 @@
 title: "The Weaponization of Everything" 
 date: 2024-06-25
 lastmod: 2024-06-25
-tags: ["philology","oleic science","history of oil","Mediterranean world"]
-author: ["Detlev Amadeus Unterholzer","Moritz-Maria von Igelfeld"]
-description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
-summary: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil." 
+tags: ["genocide","antisemitism","intifada","weaponization"]
+author: ["Eran Shmuëli"]
+description: "This paper examines the weaponization of language and ideas in political discourse. Published in the The Buchmannist, 2024." 
+summary: "This paper examines the weaponization of language and ideas in political discourse, focusing on the terms "antisemitism," "genocide," and "Intifada" within the context of contemporary campus protests over the Israel-Hamas war." 
 cover:
     image: "paper1.png"
     alt: "Some Uses For Olive Oil"
     relative: false
 editPost:
     URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Oleic Science"
+    Text: "The Buchmannist"
 
 ---
 
@@ -28,7 +28,7 @@ editPost:
 
 ##### Abstract
 
-This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This paper examines the weaponization of language and ideas in political discourse, focusing on the terms "antisemitism," "genocide," and "Intifada" within the context of contemporary campus protests over the Israel-Hamas war. It discusses the implications of misusing these terms and how such actions can dilute their meanings and impact. The paper argues that while criticism of Israel's policies is not inherently antisemitic, genuine instances of antisemitism within protests were often dismissed as politicization of the term without examining their merits. In contrast, the paper contends that the accusations of genocide against Israel lack the legal basis defined by international law. The term "Intifada" is also analyzed, highlighting its historical context of violence and how its contemporary usage on campuses is problematic. The paper draws attention to the rhetoric-oriented and merit-averse climate of current public discourse, emphasizing the need for a more thoughtful and evidence-based approach to these sensitive issues. Additionally, it calls for a balanced and precise application of these terms to preserve their significance and ensure that genuine instances of antisemitism, genocide, and political violence are appropriately addressed. 
 
 ---
 
@@ -40,14 +40,14 @@ This paper reviews unusual uses for olive oil throughout the Mediterranean world
 
 ##### Citation
 
-Unterholzer, Detlev A., and  Moritz-Maria von Igelfeld. 2013. "Unusual Uses For Olive Oil." *Journal of Oleic Science* 34 (1): 449–489. http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil.
+Shmuëli, Eran. 2024. "The Weaponization of Everything." *The Buchmannist*. http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil.
 
 ```BibTeX
 @article{UI13,
-author = {Detlev A. Unterholzer and Moritz-Maria von Igelfeld},
-year = {2013},
-title ={Unusual Uses For Olive Oil},
-journal = {Journal of Oleic Science},
+author = {Eran. Shmuëli},
+year = {2024},
+title ={The Weaponization of Everything},
+journal = {The Buchmannist},
 volume = {34},
 number = {1},
 pages = {449--489},
