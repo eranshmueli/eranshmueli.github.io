@@ -1,7 +1,7 @@
 ---
 title: "The Weaponization of Everything" 
-date: 2013-01-15
-lastmod: 2024-05-08
+date: 2024-06-25
+lastmod: 2024-06-25
 tags: ["philology","oleic science","history of oil","Mediterranean world"]
 author: ["Detlev Amadeus Unterholzer","Moritz-Maria von Igelfeld"]
 description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
