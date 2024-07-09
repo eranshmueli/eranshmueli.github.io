@@ -1,5 +1,5 @@
 ---
-title: "Unusual Uses For Olive Oil" 
+title: "The Weaponization of Everything" 
 date: 2013-01-15
 lastmod: 2024-05-08
 tags: ["philology","oleic science","history of oil","Mediterranean world"]
