@@ -8,7 +8,7 @@ description: "This paper examines the weaponization of language and ideas in pol
 summary: "This paper examines the weaponization of language and ideas in political discourse, focusing on the terms "antisemitism," "genocide," and "Intifada" within the context of contemporary campus protests over the Israel-Hamas war." 
 cover:
     image: "paper1.png"
-    alt: "Some Uses For Olive Oil"
+    alt: "The Weaponization of Everything"
     relative: false
 editPost:
     URL: "https://github.com/pmichaillat/hugo-website"
