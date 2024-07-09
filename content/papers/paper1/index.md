@@ -20,7 +20,7 @@ editPost:
 
 ##### Download
 
-+ [Paper](The Weaponization of Everything (Eran Shmueli).pdf)
++ [Paper](paper1.pdf)
 + [Online appendix](appendix1.pdf)
 + [Code and data](https://github.com/pmichaillat/u-star)
 
