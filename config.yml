@@ -74,22 +74,20 @@ params:
           url: mailto:moritz.maria.von.igelfeld@gmail.com
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-          <!---
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
-        - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@alexandermccallsmithoffici9000
-        - name: Twitter
-          url: https://twitter.com/McCallSmith
-          --->
+        # - name: Zoom
+        #   url: https://www.zoom.us/my/igelfeld
+        # - name: Location
+        #   url: location/
+        # - name: Office Hours
+        #   url: officehours/
+        # - name: GitHub
+        #   url: https://github.com/pmichaillat
+        # - name: Substack
+        #   url: https://pmichaillat.substack.com
+        # - name: YouTube
+        #   url: https://www.youtube.com/@alexandermccallsmithoffici9000
+        # - name: Twitter
+        #   url: https://twitter.com/McCallSmith
 
     assets:
         disableScrollBarStyle: true
