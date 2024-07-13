@@ -22,7 +22,7 @@ menu:
           weight: 6
 
 params:
-    description: "I am a Bachelor of Laws candidate at the Tel Aviv University Buchmann Faculty of Law in Tel Aviv, Israel. My research focuses mostly on public international law."
+    description: "I am a Bachelor of Laws candidate at the Tel Aviv University Buchmann Faculty of Law in Tel Aviv, Israel. I focuse mostly on public international law."
     author: Eran Shmuëli
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -66,8 +66,6 @@ params:
               url: tags/
             - name: Archive
               url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
         - name: CV
