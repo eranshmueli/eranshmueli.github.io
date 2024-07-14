@@ -73,10 +73,10 @@ params:
           url: mailto:moritz.maria.von.igelfeld@gmail.com
         - name: CV
           url: cv.pdf
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
         - name: linkedin
           url: https://www.linkedin.com/
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
         # - name: Zoom
         #   url: https://www.zoom.us/my/igelfeld
         # - name: Location
