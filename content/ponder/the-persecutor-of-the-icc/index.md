@@ -6,7 +6,7 @@ author: "Eran Shmuëli"
 description: "The prosecutor's warrant request distorts justice, revealing the court's true and dark colors."
 summary: "The prosecutor's warrant request distorts justice, revealing the court's true and dark colors."
 cover:
-    image: "cover.png"
+    image: "cover.jpg"
     alt: "Cover: The biggest distortion of justice nobody talks about."
     relative: false
 editPost:
