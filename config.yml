@@ -38,7 +38,7 @@ params:
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
     #MainSections: ["books","courses","papers","data"]
-    MainSections: ["papers"]
+    MainSections: ["papers", "ponder"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
