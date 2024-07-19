@@ -8,6 +8,7 @@ summary: "The prosecutor's warrant request distorts justice, revealing the court
 cover:
     image: "cover.png"
     alt: "Cover: The biggest distortion of justice nobody talks about."
+    relative: false
 editPost:
     URL: ""
     Text: "Ponder"
