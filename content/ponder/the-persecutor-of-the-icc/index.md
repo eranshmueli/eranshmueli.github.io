@@ -6,7 +6,7 @@ author: "Eran Shmuëli"
 description: "The prosecutor's warrant request distorts justice, revealing the court's true and dark colors."
 summary: "The prosecutor's warrant request distorts justice, revealing the court's true and dark colors."
 cover:
-    image: "cover.png"
+    image: "cover.jpg"
     alt: "Cover: The biggest distortion of justice nobody talks about."
 editPost:
     URL: ""
@@ -14,7 +14,7 @@ editPost:
 weight: -1
 ---
 
-![Cover](cover.png)
+![Cover](cover.jpg)
 
 Modern-day AIs are just applications of machine learning. We use them to make financial decisions, drive cars, and be our assistants like Siri—you know, all the fancy stuff. But I bet you interacted with at least 3 of them just a minute ago without realizing it. They also curate your social media feeds, filter out spam from your inbox, and manage your device's battery consumption. That's how ubiquitous they are.
 
