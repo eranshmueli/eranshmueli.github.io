@@ -61,6 +61,8 @@ params:
           buttons:
             - name: Papers
               url: papers/
+            - name: Ponder
+              url: ponder/
             #- name: Courses
             #  url: courses/
             #- name: Data
