@@ -1,12 +1,12 @@
 ---
-title: "The Persecutor of the ICC"
+title: "The persecutor of the ICC:"
 date: 2020-09-12
 tags: ["Persecution"]
 author: "Eran Shmuëli"
 description: "The prosecutor's warrant request distorts justice, revealing the court's true and dark colors."
 summary: "The prosecutor's warrant request distorts justice, revealing the court's true and dark colors."
 cover:
-    image: "cover.jpg"
+    image: "cover.png"
     alt: "Cover: The biggest distortion of justice nobody talks about."
 editPost:
     URL: ""
@@ -14,7 +14,7 @@ editPost:
 weight: -1
 ---
 
-![Cover](cover.jpg)
+![Cover](cover.png)
 
 Modern-day AIs are just applications of machine learning. We use them to make financial decisions, drive cars, and be our assistants like Siri—you know, all the fancy stuff. But I bet you interacted with at least 3 of them just a minute ago without realizing it. They also curate your social media feeds, filter out spam from your inbox, and manage your device's battery consumption. That's how ubiquitous they are.
 
@@ -64,4 +64,7 @@ I have won various national and international competitions. And the best advice 
 
 ---
 
-In the next issue, I’ll discuss the . . .
+In the next issue, I’ll discuss the harmful effects of trusting dumb AIs and how to make them less sexist and less racist (yes, they can be sexist and racist). Sign up now, so you don’t miss out!
+
+<center><iframe src="https://ponder.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe></center>
+
