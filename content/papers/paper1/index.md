@@ -7,6 +7,7 @@ author: ["Eran Shmuëli"]
 description: "This paper examines the weaponization of language and ideas in political discourse. Published in the The Buchmannist, 2024." 
 summary: "This paper examines the weaponization of language and ideas in political discourse, focusing on the terms 'antisemitism,' 'genocide,' and 'Intifada' within the context of contemporary campus protests over the Israel-Hamas war." 
 cover:
+    image: "paper1.jpg"
     alt: "The Weaponization of Everything"
     relative: false
 editPost:
