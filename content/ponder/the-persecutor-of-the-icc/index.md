@@ -64,7 +64,4 @@ I have won various national and international competitions. And the best advice 
 
 ---
 
-In the next issue, I’ll discuss the harmful effects of trusting dumb AIs and how to make them less sexist and less racist (yes, they can be sexist and racist). Sign up now, so you don’t miss out!
-
-<center><iframe src="https://ponder.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe></center>
-
+In the next issue, I’ll discuss the . . .
