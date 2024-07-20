@@ -1,7 +1,7 @@
 ---
 title: "The persecutor of the ICC:"
 date: 2020-09-12
-tags: ["Persecution"]
+tags: ["Persecution", "Crimes Against Humanity", "International Criminal Court","Prosecutor", "Genocide", "War Crimes", "International Military Tribunal"]
 author: "Eran Shmuëli"
 description: "The prosecutor's warrant request distorts justice, revealing the court's true and dark colors."
 summary: "The prosecutor's warrant request distorts justice, revealing the court's true and dark colors."
