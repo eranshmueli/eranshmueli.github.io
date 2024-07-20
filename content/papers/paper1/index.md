@@ -22,6 +22,11 @@ editPost:
 
 + [Paper](The_Weaponization_of_Everything.pdf)
 
+<div style="width: 100%; height: 600px; border: 1px solid #ccc;">
+  <embed src="The_Weaponization_of_Everything.pdf" width="100%" height="100%" type="application/pdf">
+</div>
+
+
 ---
 
 ##### Abstract
