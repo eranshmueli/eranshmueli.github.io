@@ -1,13 +1,13 @@
 ---
-title: "The Persecutor of the International Criminal Court" 
+title: "The Future of Intellectual Property Hinges on an Ex Ante View" 
 date: 2004-12-28
 lastmod: 2024-05-08
-tags: ["Persecution", "Crimes Against Humanity", "International Criminal Court","Prosecutor", "Genocide", "War Crimes", "International Military Tribunal"]
-author: ["Florianus Prinzel", "Moritz-Maria von Igelfeld"]
+tags: ["Ex Ante", "Intellectual Property", "Artificial Intelligence"]
+author: ["Eran Shmuëli"]
 description: "This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004." 
 summary: "his paper studies the pulmonary efficiency of sausage dogs." 
 cover:
-    image: "paper2.png"
+    image: ""
     alt: "Dimensions of a sausage dog"
     relative: false
 editPost:
