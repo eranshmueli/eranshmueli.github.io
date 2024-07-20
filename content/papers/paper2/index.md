@@ -1,7 +1,7 @@
 ---
 title: "The Future of Intellectual Property Hinges on an Ex Ante View" 
-date: 2004-12-28
-lastmod: 2024-05-08
+date: 2022-08-31
+lastmod: 2024-08-31
 tags: ["Ex Ante", "Intellectual Property", "Artificial Intelligence"]
 author: ["Eran Shmuëli"]
 description: "This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004." 
