@@ -1,5 +1,5 @@
 ---
-title: "The persecutor of the ICC"
+title: "The ‘Persecutor’ of the ICC"
 date: 2020-09-12
 tags: ["Persecution", "Crimes Against Humanity", "International Criminal Court","Prosecutor", "Genocide", "War Crimes", "International Military Tribunal"]
 author: "Eran Shmuëli"
