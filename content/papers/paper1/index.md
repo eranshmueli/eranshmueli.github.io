@@ -22,9 +22,6 @@ editPost:
 
 + [Paper](The_Weaponization_of_Everything.pdf)
 
-+ <script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
-<div class="elfsight-app-441dab6e-ef07-4e6f-a7b0-592c4ba2abd4" data-elfsight-app-lazy></div>
-
 ---
 
 ##### Abstract
