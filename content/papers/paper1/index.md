@@ -26,7 +26,7 @@ editPost:
   <embed src="The_Weaponization_of_Everything.pdf" width="100%" height="100%" type="application/pdf">
 </div>
 
-<iframe src="your-document.pdf" style="width:100%; height:600px; border:none;"></iframe>
+<iframe src="The_Weaponization_of_Everything.pdf" style="width:100%; height:900px; border:none;"></iframe>
 
 
 
