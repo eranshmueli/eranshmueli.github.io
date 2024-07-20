@@ -22,11 +22,9 @@ editPost:
 
 + [Paper](The_Weaponization_of_Everything.pdf)
 
-<div style="width: 100%; height: 900px; border: 1px solid #ccc;">
+<div style="width: 100%; height: 950px; border: 1px solid #ccc;">
   <embed src="The_Weaponization_of_Everything.pdf" width="100%" height="100%" type="application/pdf">
 </div>
-
-<iframe src="The_Weaponization_of_Everything.pdf" style="width:100%; height:900px; border:none;"></iframe>
 
 
 
