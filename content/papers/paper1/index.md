@@ -50,5 +50,6 @@ url = {http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil}}
 
 ##### Related material
 
-+ [Presentation slides](presentation1.pdf)
-+ [Summary of the paper](https://www.penguinrandomhouse.com/books/110403/unusual-uses-for-olive-oil-by-alexander-mccall-smith/)
++ [Working definition of Antisemitism](https://holocaustremembrance.com/resources/working-definition-antisemitism)
++ [Genocide Convention](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-prevention-and-punishment-crime-genocide)
++ [_Bosnia and Herzegovina v. Serbia and Montenegro_, Judgment, 26 February 2007,](https://icj-cij.org/sites/default/files/case-related/91/091-20070226-JUD-01-00-EN.pdf)
