@@ -50,15 +50,11 @@ url = {http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil}}
 
 ##### Related material
 
-Antisemitism:
++ [Bernie Sanders interview](https://www.youtube.com/watch?v=_6rQmvko18M&t=414s)
 + [Working definition of Antisemitism](https://holocaustremembrance.com/resources/working-definition-antisemitism)
 + [Bret Stephens, ‘To Be (Visibly) Jewish in the Ivy League’, _New York Times_ (24 April 2024)](https://www.nytimes.com/2024/04/23/opinion/university-jewish-antisemitism-ivy.html)
 + [Hamza Howidy, ‘Message From a Gazan to Campus Protesters: You’re Hurting the Palestinian Cause’, _Newsweek_ (25 April 2024)](https://www.newsweek.com/message-gazan-campus-protesters-youre-hurting-palestinian-cause-opinion-1894313)
-
-Genoncide:
 + [Genocide Convention (article 2)](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-prevention-and-punishment-crime-genocide)
 + [_Bosnia and Herzegovina v. Serbia and Montenegro_, Judgment of 26 February 2007](https://icj-cij.org/sites/default/files/case-related/91/091-20070226-JUD-01-00-EN.pdf)
-
-Intifada:
 + [‘Letter to the Editor: On Language, Misinformation and Divisiveness’, _Cornell Daily Sun_ (29 April 2024)](https://cornellsun.com/2024/04/29/letter-to-the-editor-on-language-misinformation-and-divisiveness/)
 + [Letter to the Editor: The Letter from Professors Weaponizes Expertise’, _Cornell Daily Sun_ (2 May 2024) ](https://cornellsun.com/2024/05/02/letter-to-the-editor-the-letter-from-professors-weaponizes-expertise/)
