@@ -60,5 +60,5 @@ Genoncide:
 + [_Bosnia and Herzegovina v. Serbia and Montenegro_, Judgment of 26 February 2007](https://icj-cij.org/sites/default/files/case-related/91/091-20070226-JUD-01-00-EN.pdf)
 
 Intifada:
-+[‘Letter to the Editor: On Language, Misinformation and Divisiveness’, _Cornell Daily Sun_ (29 April 2024)](https://cornellsun.com/2024/04/29/letter-to-the-editor-on-language-misinformation-and-divisiveness/)
++ [‘Letter to the Editor: On Language, Misinformation and Divisiveness’, _Cornell Daily Sun_ (29 April 2024)](https://cornellsun.com/2024/04/29/letter-to-the-editor-on-language-misinformation-and-divisiveness/)
 + [Letter to the Editor: The Letter from Professors Weaponizes Expertise’, _Cornell Daily Sun_ (2 May 2024) ](https://cornellsun.com/2024/05/02/letter-to-the-editor-the-letter-from-professors-weaponizes-expertise/)
