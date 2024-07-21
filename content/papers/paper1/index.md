@@ -50,6 +50,11 @@ url = {http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil}}
 
 ##### Related material
 
+Antisemitism:
 + [Working definition of Antisemitism](https://holocaustremembrance.com/resources/working-definition-antisemitism)
-+ [Genocide Convention](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-prevention-and-punishment-crime-genocide)
-+ [_Bosnia and Herzegovina v. Serbia and Montenegro_, Judgment, 26 February 2007,](https://icj-cij.org/sites/default/files/case-related/91/091-20070226-JUD-01-00-EN.pdf)
+
+Genoncide:
++ [Genocide Convention (article 2)](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-prevention-and-punishment-crime-genocide)
++ [_Bosnia and Herzegovina v. Serbia and Montenegro_, Judgment of 26 February 2007](https://icj-cij.org/sites/default/files/case-related/91/091-20070226-JUD-01-00-EN.pdf)
+
+Intifada:
