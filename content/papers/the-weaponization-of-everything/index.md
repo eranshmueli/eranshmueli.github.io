@@ -1,11 +1,12 @@
 ---
-title: "The Weaponization of *Everything*" 
+title: "The Weaponization of Everything" 
 date: 2024-06-25
 lastmod: 2024-06-25
 tags: ["Genocide","Antisemitism","Intifada","Weaponization", "Dolus Specialis", "Intent", "International Court of Justice"]
 author: ["Eran Shmuëli"]
 description: "This paper examines the weaponization of language and ideas in political discourse. Published in the The Buchmannist, 2024." 
-summary: "This paper examines the weaponization of language and ideas in political discourse, focusing on the terms 'antisemitism,' 'genocide,' and 'Intifada' within the context of contemporary campus protests over the Israel-Hamas war." 
+summary: "This paper examines the weaponization of language and ideas in political discourse, focusing on the terms \"antisemitism,\" \"genocide,\" and \"Intifada\" within the context of contemporary campus protests over the Israel-Hamas war."
+
 cover:
     image: ""
     alt: "The Weaponization of Everything"
