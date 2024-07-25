@@ -2,7 +2,7 @@
 title: "Beyond the Algorithm: Redefining IP for the Age of AI" 
 date: 2022-08-31
 lastmod: 2024-08-31
-tags: ["Ex Ante", "Intellectual Property", "Artificial Intelligence", "Public goods", "Market Failure",]
+tags: ["Intellectual Property", "Artificial Intelligence", "Public goods", "Market Failure", "Ex Ante",]
 author: ["Eran Shmuëli"]
 description: "This pro-seminar paper addresses whether AI-generated creations should be eligible for copyright protection." 
 summary: "This paper explores whether AI-generated creations should receive copyright protection, advocating that human creators should hold the rights and examining the theoretical implications of intellectual property law in the age of AI." 
