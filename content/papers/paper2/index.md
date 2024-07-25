@@ -1,8 +1,8 @@
 ---
-title: "The Future of Intellectual Property Hinges on an Ex Ante View" 
+title: "Beyond the Algorithm: Redefining IP for the Age of AI" 
 date: 2022-08-31
 lastmod: 2024-08-31
-tags: ["Ex Ante", "Intellectual Property", "Artificial Intelligence"]
+tags: ["Ex Ante", "Intellectual Property", "Artificial Intelligence", "Public goods", "Market Failure",]
 author: ["Eran Shmuëli"]
 description: "This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004." 
 summary: "his paper studies the pulmonary efficiency of sausage dogs." 
@@ -21,8 +21,6 @@ editPost:
 ##### Download
 
 + [Paper](paper2.pdf)
-+ [Online appendix](appendix2.pdf)
-+ [Code and data](https://github.com/pmichaillat/wunk)
 
 ---
 
