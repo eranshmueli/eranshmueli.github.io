@@ -27,6 +27,7 @@ editPost:
 ##### Abstract
 
 This paper explores the eligibility of AI-generated creations for copyright protection, advocating that human creators should hold the rights to such works. It discusses the normative and theoretical foundations of intellectual property (IP) law in the context of AI and Machine Learning (ML) advancements. The paper examines the operational mechanisms of AI, the arguments against and for granting copyright protections to AI-generated works, and the potential implications of such protections. It argues that while AI can produce creative content, the human creators behind these technologies should be recognized and rewarded. The paper emphasizes the need for a balanced approach to IP law that promotes human creativity and innovation without undermining the significance of human contributions. The paper concludes that granting copyright to human creators of AI technologies aligns with the fundamental goals of IP law.
+
 ---
 
 ##### Citation
