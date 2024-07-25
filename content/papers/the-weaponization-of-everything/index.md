@@ -1,5 +1,5 @@
 ---
-title: "The Weaponization of Everything" 
+title: "The Weaponization of *Everything*" 
 date: 2024-06-25
 lastmod: 2024-06-25
 tags: ["Genocide","Antisemitism","Intifada","Weaponization", "Dolus Specialis", "Intent", "International Court of Justice"]
