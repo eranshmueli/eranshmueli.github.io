@@ -36,7 +36,7 @@ This paper examines the weaponization of language and ideas in political discour
 Shmuëli, Eran. 2024. "The Weaponization of Everything." *The Buchmannist*. http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil.
 
 ```BibTeX
-@article{UI13,
+@article{S24,
 author = {Eran Shmuëli},
 year = {2024},
 title ={The Weaponization of Everything},
