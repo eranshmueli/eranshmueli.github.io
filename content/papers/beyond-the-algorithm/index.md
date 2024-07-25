@@ -11,8 +11,8 @@ cover:
     alt: "Dimensions of a sausage dog"
     relative: false
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Canine Science"
+    URL: ""
+    Text: "Pro-Seminar Papere"
 
 ---
 
