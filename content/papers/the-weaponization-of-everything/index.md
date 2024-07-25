@@ -54,6 +54,6 @@ url = {http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil}}
 + [Working definition of Antisemitism](https://holocaustremembrance.com/resources/working-definition-antisemitism)
 + [UN Doc. A/C.6/SR.78](https://undocs.org/A/C.6/SR.78)
 + [UN Doc. E/447](https://digitallibrary.un.org/record/611058/files/E_447-EN.pdf)
-+ [Genocide Convention)](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-prevention-and-punishment-crime-genocide)
++ [Genocide Convention](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-prevention-and-punishment-crime-genocide)
 + [_Bosnia and Herzegovina v. Serbia and Montenegro_, Judgment of 26 February 2007](https://icj-cij.org/sites/default/files/case-related/91/091-20070226-JUD-01-00-EN.pdf)
 
