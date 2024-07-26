@@ -12,7 +12,7 @@ cover:
     relative: false
 editPost:
     URL: " "
-    Text: "Pro-Seminar Papere"
+    Text: "Pro-Seminar Paper"
 
 ---
 
