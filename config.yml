@@ -76,11 +76,11 @@ params:
 
     socialIcons:
         - name: Email
-          url: mailto:moritz.maria.von.igelfeld@gmail.com
+          url: mailto:eran.shmueli999@gmail.com
         - name: CV
           url: cv.pdf
         - name: linkedin
-          url: https://www.linkedin.com/
+          url: linkedin.com/in/eran-shmueli-91134a30a
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
         # - name: Zoom
