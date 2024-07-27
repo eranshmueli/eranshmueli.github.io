@@ -29,6 +29,8 @@
     --lineheight: 1.45;
     --lineclamp: 8;
     --marginleft: 26px;
+    /*Custom variables*/
+    --purple: #6e55c3; /*links*/
 }
 
 .dark {
