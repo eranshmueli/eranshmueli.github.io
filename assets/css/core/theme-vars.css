@@ -30,8 +30,8 @@
     --lineclamp: 8;
     --marginleft: 26px;
     /*Custom variables*/
-    --purple: #6e55c3; /*links*/
-}
+    --purple: #A51C30; /*--purple: #6e55c3; /*links*/
+    }
 
 .dark {
     --theme: rgb(29, 30, 32);
