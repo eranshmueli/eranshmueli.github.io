@@ -16,5 +16,6 @@
 
 .terms-tags a:hover {
     background: var(--lightpurple);
+    border: 1px solid var(--purple);
 }
 
