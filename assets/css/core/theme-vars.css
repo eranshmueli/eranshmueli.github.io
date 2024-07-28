@@ -18,7 +18,8 @@
     --border: rgb(230, 230, 230); /*--border: rgb(238, 238, 238);*/
     --darkpurple: #8e7bd0;
     --midpurple:#c0b5e5;
-    --lightpurple: #fcecee; /*--lightpurple: #e5e1f4; /*hover color*/
+    /*--lightpurple: #fcecee;*/
+    --lightpurple: #e5e1f4; /*hover color*/
     --semibold: 500;
     --homesize: 16px;
     --textsize: 18px;
@@ -30,7 +31,8 @@
     --lineclamp: 8;
     --marginleft: 26px;
     /*Custom variables*/
-    --purple: #A51C30; /*--purple: #6e55c3; /*links*/
+    /*--purple: #A51C30;*/
+    --purple: #6e55c3; /*links*/
     }
 
 .dark {
