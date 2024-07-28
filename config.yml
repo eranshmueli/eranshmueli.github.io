@@ -75,10 +75,10 @@ params:
               url: archive/
 
     socialIcons:
-        - name: Email
-          url: mailto:eran.shmueli999@gmail.com
         - name: CV
           url: cv.pdf
+        - name: Email
+          url: mailto:eran.shmueli999@gmail.com
         - name: linkedin
           url: https://linkedin.com/in/eran-shmueli-91134a30a
         - name: Google Scholar
