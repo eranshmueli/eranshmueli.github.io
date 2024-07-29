@@ -20,7 +20,7 @@ editPost:
 
 ##### Download
 
-+ [Paper](paper.pdf)
++ [Paper](beyond-the-algorithm.pdf)
 
 ---
 
