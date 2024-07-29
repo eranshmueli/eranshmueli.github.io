@@ -21,7 +21,7 @@ editPost:
 
 ##### Download
 
-+ [Paper](paper.pdf)
++ [Paper](the-weaponization-of-everything.pdf)
 
 ---
 
