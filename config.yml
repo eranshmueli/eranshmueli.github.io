@@ -25,7 +25,7 @@ menu:
           weight: 6
 
 params:
-    description: "I am a Bachelor of Laws candidate at the Tel Aviv University Buchmann Faculty of Law in Tel Aviv, Israel. I focus mostly on public international law."
+    description: "I am a Bachelor of Laws candidate at Tel Aviv University Buchmann Faculty of Law in Tel Aviv, Israel. I studies mostly focus on public international law."
     author: Eran Shmuëli
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -52,7 +52,7 @@ params:
     profileMode:
           enabled: true
           title: Eran Shmuëli
-          subtitle:  "I am a **Bachelor of Laws** candidate at the **Tel-Aviv University** Buchmann Faculty of Law, Israel. My research focuses on public international law. I was a J.D exchange student at **Cornell Law School**."
+          subtitle:  "I am a **Bachelor of Laws** candidate at **Tel-Aviv University** Buchmann Faculty of Law, Israel. My studies mostly focus on public international law. I was a J.D exchange student at **Cornell Law School**."
           # subtitle: "I am a Bachelor of Laws candidate at the Tel Aviv University Buchmann Faculty of Law in Tel Aviv, Israel. My research focuses mostly on public international law. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
           imageUrl: "picture3.png"
           imageWidth: 160
