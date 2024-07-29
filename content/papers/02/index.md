@@ -1,7 +1,7 @@
 ---
-title: "The Weaponization of Everything" 
-date: 2024-06-25
-lastmod: 2024-06-25
+title: "Corporate Law and Vulnerability Disclosure Policies" 
+date: 2023-08-31
+lastmod: 2023-08-31
 tags: ["Genocide","Antisemitism","Intifada","Weaponization", "Dolus Specialis", "Intent", "International Court of Justice"]
 author: ["Eran Shmuëli"]
 description: "This paper examines the weaponization of language and ideas in political discourse. Published in the The Buchmannist, 2024." 
@@ -9,11 +9,11 @@ summary: "This paper examines the weaponization of language and ideas in politic
 
 cover:
     image: ""
-    alt: "The Weaponization of Everything"
+    alt: "Corporate Law and Vulnerability Disclosure Policies"
     relative: false
 editPost:
     URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "The Buchmannist"
+    Text: "Seminar Paper"
 
 ---
 
