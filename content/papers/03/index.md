@@ -1,7 +1,7 @@
 ---
 title: "The Weaponization of Everything" 
-date: 2024-06-25
-lastmod: 2024-06-25
+date: 2024-07-30
+lastmod: 2024-07-30
 tags: ["Genocide","Antisemitism","Intifada","Weaponization", "Dolus Specialis", "Intent", "International Court of Justice"]
 author: ["Eran Shmuëli"]
 description: "This paper examines the weaponization of language and ideas in political discourse. Published in the The Buchmannist, 2024." 
@@ -21,7 +21,7 @@ editPost:
 
 ##### Download
 
-+ [Article](https://heyzine.com/flip-book/7305022313.html)
++ [Article](https://heyzine.com/flip-book/7305022313.html/#page/36)
 + [Original Paper](the-weaponization-of-everything.pdf)
 
 ---
