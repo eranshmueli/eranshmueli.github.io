@@ -42,10 +42,10 @@ author = {Eran Shmuëli},
 year = {2024},
 title ={The Weaponization of Everything},
 journal = {The Buchmannist},
-volume = {34},
 number = {1},
-pages = {449--489},
-url = {http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil}}
+pages = {36--39},
+url = {https://heyzine.com/flip-book/7305022313.html}}
+
 ```
 
 ---
