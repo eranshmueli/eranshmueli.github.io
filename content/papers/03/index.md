@@ -19,14 +19,11 @@ editPost:
 
 ---
 
-##### Download
-
 <iframe allowfullscreen="allowfullscreen" scrolling="no" class="fp-iframe" style="width: 100%; height: 600px;" src="https://heyzine.com/flip-book/7305022313.html/#page/36"></iframe>
 
-
+##### Download
 
 + [Published Article](https://heyzine.com/flip-book/7305022313.html/#page/36)
-+ [Original Paper](the-weaponization-of-everything.pdf)
 
 ---
 
@@ -56,7 +53,10 @@ url = {https://heyzine.com/flip-book/7305022313.html}}
 
 ##### Related material
 
-+ [Article file](buchmanninst-2024.pdf)
++ [Article PDF File](buchmanninst-2024.pdf)
++ [Original Paper](the-weaponization-of-everything.pdf)
+
+
 + [Working definition of Antisemitism](https://holocaustremembrance.com/resources/working-definition-antisemitism)
 + [UN Doc. A/C.6/SR.78](https://undocs.org/A/C.6/SR.78)
 + [UN Doc. E/447](https://digitallibrary.un.org/record/611058/files/E_447-EN.pdf)
