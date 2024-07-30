@@ -12,7 +12,7 @@ cover:
     alt: "The Weaponization of Everything"
     relative: false
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
+    URL: "https://heyzine.com/flip-book/7305022313.html"
     Text: "The Buchmannist"
 
 ---
@@ -21,7 +21,8 @@ editPost:
 
 ##### Download
 
-+ [Paper](the-weaponization-of-everything.pdf)
++ [Article](https://heyzine.com/flip-book/7305022313.html)
++ [Original Paper](the-weaponization-of-everything.pdf)
 
 ---
 
@@ -51,6 +52,7 @@ url = {http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil}}
 
 ##### Related material
 
++ [Article file](buchmanninst-2024.pdf)
 + [Working definition of Antisemitism](https://holocaustremembrance.com/resources/working-definition-antisemitism)
 + [UN Doc. A/C.6/SR.78](https://undocs.org/A/C.6/SR.78)
 + [UN Doc. E/447](https://digitallibrary.un.org/record/611058/files/E_447-EN.pdf)
