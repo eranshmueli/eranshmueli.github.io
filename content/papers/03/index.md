@@ -9,7 +9,7 @@ summary: "This paper examines the weaponization of language and ideas in politic
 
 cover:
     image: " "
-    alt: "The Weaponization of Everything"
+    alt: ""
     relative: false
 editPost:
     URL: "https://heyzine.com/flip-book/7305022313.html"
