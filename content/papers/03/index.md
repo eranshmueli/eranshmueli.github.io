@@ -19,7 +19,7 @@ editPost:
 
 ---
 
-<iframe allowfullscreen="allowfullscreen" scrolling="no" class="fp-iframe" style="width: 100%; height: 600px;" src="https://heyzine.com/flip-book/7305022313.html/#page/36"></iframe>
+<!--<iframe allowfullscreen="allowfullscreen" scrolling="no" class="fp-iframe" style="width: 100%; height: 600px;" src="https://heyzine.com/flip-book/7305022313.html/#page/36"></iframe>-->
 
 ##### Download
 
@@ -56,10 +56,10 @@ url = {https://heyzine.com/flip-book/7305022313.html}}
 + [Article PDF File](buchmanninst-2024.pdf)
 + [Original Paper](the-weaponization-of-everything.pdf)
 
-
+<!--
 + [Working definition of Antisemitism](https://holocaustremembrance.com/resources/working-definition-antisemitism)
 + [UN Doc. A/C.6/SR.78](https://undocs.org/A/C.6/SR.78)
 + [UN Doc. E/447](https://digitallibrary.un.org/record/611058/files/E_447-EN.pdf)
 + [Genocide Convention](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-prevention-and-punishment-crime-genocide)
-+ [_Bosnia and Herzegovina v. Serbia and Montenegro_, Judgment of 26 February 2007](https://icj-cij.org/sites/default/files/case-related/91/091-20070226-JUD-01-00-EN.pdf)
++ [_Bosnia and Herzegovina v. Serbia and Montenegro_, Judgment of 26 February 2007](https://icj-cij.org/sites/default/files/case-related/91/091-20070226-JUD-01-00-EN.pdf)-->
 
