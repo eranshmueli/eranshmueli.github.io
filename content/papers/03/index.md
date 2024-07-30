@@ -21,7 +21,7 @@ editPost:
 
 ##### Download
 
-+ [Article](https://heyzine.com/flip-book/7305022313.html/#page/36)
++ [Published Article](https://heyzine.com/flip-book/7305022313.html/#page/36)
 + [Original Paper](the-weaponization-of-everything.pdf)
 
 ---
