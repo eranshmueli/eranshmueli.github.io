@@ -51,7 +51,7 @@ This paper explores the intersection of corporate law and cybersecurity through 
 Shmuëli, Eran. 2024. "Corporate Law and Vulnerability Disclosure Policies." https://eranshmueli.com/papers/02/corporate-law-and-vulnerability-disclosure-polices.pdf.
 
 ```BibTeX
-@article{S23,
+@misc{S23,
 author = {Eran Shmuëli},
 year = {2023},
 title ={Corporate Law and Vulnerability Disclosure Policies},
