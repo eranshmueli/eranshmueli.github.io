@@ -21,13 +21,28 @@ editPost:
 
 ##### Download
 
-+ [Paper](corporate-law-and-vulnerability-disclosure-policies.pdf)
++ [Paper](corporate-law-and-vulnerability-disclosure-polices.pdf)
 
 ---
 
 ##### Abstract
 
 This paper examines the weaponization of language and ideas in political discourse, focusing on the terms ‘antisemitism,’ ‘genocide,’ and ‘Intifada’ within the context of contemporary campus protests over the Israel-Hamas war. It discusses the implications of misusing these terms and how such actions can dilute their meanings and impact. The paper argues that while criticism of Israel's policies is not inherently antisemitic, genuine instances of antisemitism within protests were often dismissed as politicization of the term without examining their merits. In contrast, the paper contends that the accusations of genocide against Israel lack the legal basis defined by international law. The term "Intifada" is also analyzed, highlighting its historical context of violence and how its contemporary usage on campuses is problematic. The paper draws attention to the rhetoric-oriented and merit-averse climate of current political discourse, emphasizing the need for a more evidence-based approach. Additionally, it calls for a balanced and precise application of terms to preserve their significance and ensure that genuine instances of antisemitism, genocide, and political violence are appropriately addressed. 
+
+---
+
+##### Figure 1:  Prevalence of VDPs in the S&P 500
+
+![](figure1.png)
+
+##### Figure 2:  Prevalence of VDPs in the S&P 500 broken down to Quintiles
+
+![](figure2.png)
+
+
+##### Figure 3:  Effect of VDPs on the Average increase of CVEs Per Year (Percent)
+
+![](figure3.png)
 
 ---
 
