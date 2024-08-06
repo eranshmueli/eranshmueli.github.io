@@ -27,7 +27,7 @@ editPost:
 
 ##### Abstract
 
-This paper examines the weaponization of language and ideas in political discourse, focusing on the terms ‘antisemitism,’ ‘genocide,’ and ‘Intifada’ within the context of contemporary campus protests over the Israel-Hamas war. It discusses the implications of misusing these terms and how such actions can dilute their meanings and impact. The paper argues that while criticism of Israel's policies is not inherently antisemitic, genuine instances of antisemitism within protests were often dismissed as politicization of the term without examining their merits. In contrast, the paper contends that the accusations of genocide against Israel lack the legal basis defined by international law. The term "Intifada" is also analyzed, highlighting its historical context of violence and how its contemporary usage on campuses is problematic. The paper draws attention to the rhetoric-oriented and merit-averse climate of current political discourse, emphasizing the need for a more evidence-based approach. Additionally, it calls for a balanced and precise application of terms to preserve their significance and ensure that genuine instances of antisemitism, genocide, and political violence are appropriately addressed. 
+This paper explores the intersection of corporate law and cybersecurity through the lens of Vulnerability Disclosure Policies (VDPs). It underscores the increasing importance of these policies in protecting corporations from cyber threats by enabling ethical vulnerability reporting without legal repercussions for the reporters. Despite their potential to enhance cybersecurity, many corporations remain unaware or unconvinced of their necessity, thus exposing themselves to significant risks. The paper argues that corporate law should mandate the consideration and implementation of these policies due to their critical role in cybersecurity. It discusses the current state of cybersecurity threats, the various actors involved (white hat, black hat, and grey hat hackers), and the incentives driving these actors. Through empirical analysis of S&P 500 companies and the top 50 companies with the most disclosures in the Common Vulnerabilities and Exposures (CVE) system, the study finds a positive correlation between the implementation of VDPs and the frequency of vulnerability reporting, suggesting that these policies significantly improve corporate cybersecurity resilience. The paper concludes by advocating for statutory and regulatory changes to enforce the adoption of VDPs and safe harbor policies, aiming to help corporate law catch up with the technological realities of our times.
 
 ---
 
@@ -48,14 +48,14 @@ This paper examines the weaponization of language and ideas in political discour
 
 ##### Citation
 
-Shmuëli, Eran. 2024. "Corporate Law and Vulnerability Disclosure Policies." http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil.
+Shmuëli, Eran. 2024. "Corporate Law and Vulnerability Disclosure Policies." https://eranshmueli.com/papers/02/corporate-law-and-vulnerability-disclosure-polices.pdf.
 
 ```BibTeX
 @article{S23,
 author = {Eran Shmuëli},
 year = {2023},
 title ={Corporate Law and Vulnerability Disclosure Policies},
-url = {http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil}}
+url = {https://eranshmueli.com/papers/02/corporate-law-and-vulnerability-disclosure-polices.pdf}}
 ```
 
 <!--
