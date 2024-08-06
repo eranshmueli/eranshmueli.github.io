@@ -1,7 +1,7 @@
 ---
 title: "Working Paper: Persecution and the International Criminal Court" 
-date: 2025-01-01
-lastmod: 2025-01-01
+date: 2024-08-01
+lastmod: 2024-08-01
 tags: ["persecution", "crimes against humanity", "ICC","prosecutor", "genocide", "war crimes", "IMT"]
 author: ["Eran Shmuëli"]
 description: "This paper examines the weaponization of language and ideas in political discourse. Published in the The Buchmannist, 2024." 
