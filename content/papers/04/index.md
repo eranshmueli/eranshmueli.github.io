@@ -1,6 +1,6 @@
 ---
 title: "Working Paper: Persecution and the International Criminal Court" 
-date: 2024-07-30
+date: 2025-01-01
 lastmod: 2024-07-30
 tags: ["persecution", "crimes against humanity", "ICC","prosecutor", "genocide", "war crimes", "IMT"]
 author: ["Eran Shmuëli"]
