@@ -2,7 +2,7 @@
 title: "Corporate Law and Vulnerability Disclosure Policies" 
 date: 2023-08-31
 lastmod: 2023-08-31
-tags: ["Genocide","Antisemitism","Intifada","Weaponization", "Dolus Specialis", "Intent", "International Court of Justice"]
+tags: ["genocide","antisemitism","intifada","weaponization", "dolus specialis", "intent", "ICJ"]
 author: ["Eran Shmuëli"]
 description: "This paper examines the weaponization of language and ideas in political discourse. Published in the The Buchmannist, 2024." 
 summary: "This paper examines the weaponization of language and ideas in political discourse, focusing on the terms ‘antisemitism,’ ‘genocide,’ and ‘Intifada’ within the context of contemporary campus protests over the Israel-Hamas war."
