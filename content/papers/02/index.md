@@ -2,7 +2,7 @@
 title: "Corporate Law and Vulnerability Disclosure Policies" 
 date: 2023-08-31
 lastmod: 2023-08-31
-tags: ["genocide","antisemitism","intifada","weaponization", "dolus specialis", "intent", "ICJ"]
+tags: ["VDP","hacker","white hat","black hat", "cybersecurity"]
 author: ["Eran Shmuëli"]
 description: "This paper examines the weaponization of language and ideas in political discourse. Published in the The Buchmannist, 2024." 
 summary: "This paper examines the weaponization of language and ideas in political discourse, focusing on the terms ‘antisemitism,’ ‘genocide,’ and ‘Intifada’ within the context of contemporary campus protests over the Israel-Hamas war."
@@ -12,7 +12,7 @@ cover:
     alt: "Corporate Law and Vulnerability Disclosure Policies"
     relative: false
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
+    URL: ""
     Text: "Seminar Paper"
 
 ---
@@ -33,20 +33,17 @@ This paper examines the weaponization of language and ideas in political discour
 
 ##### Citation
 
-Shmuëli, Eran. 2024. "The Weaponization of Everything." *The Buchmannist*. http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil.
+Shmuëli, Eran. 2024. "Corporate Law and Vulnerability Disclosure Policies." http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil.
 
 ```BibTeX
-@article{S24,
+@article{S23,
 author = {Eran Shmuëli},
-year = {2024},
-title ={The Weaponization of Everything},
-journal = {The Buchmannist},
-volume = {34},
-number = {1},
-pages = {449--489},
+year = {2023},
+title ={Corporate Law and Vulnerability Disclosure Policies},
 url = {http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil}}
 ```
 
+<!--
 ---
 
 ##### Related material
@@ -56,4 +53,4 @@ url = {http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil}}
 + [UN Doc. E/447](https://digitallibrary.un.org/record/611058/files/E_447-EN.pdf)
 + [Genocide Convention](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-prevention-and-punishment-crime-genocide)
 + [_Bosnia and Herzegovina v. Serbia and Montenegro_, Judgment of 26 February 2007](https://icj-cij.org/sites/default/files/case-related/91/091-20070226-JUD-01-00-EN.pdf)
-
+-->
