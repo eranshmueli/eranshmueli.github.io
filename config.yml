@@ -14,9 +14,9 @@ menu:
         - name: Papers
           url: papers/
           weight: 2
-        - name: Ponder
-          url: ponder/
-          weight: 3
+        #- name: Ponder
+        #  url: ponder/
+        #  weight: 3
         - name: Tags
           url: tags/
           weight: 5
@@ -61,8 +61,8 @@ params:
           buttons:
             - name: Papers
               url: papers/
-            - name: Ponder
-              url: ponder/
+            #- name: Ponder
+            #  url: ponder/
             #- name: Courses
             #  url: courses/
             #- name: Data
