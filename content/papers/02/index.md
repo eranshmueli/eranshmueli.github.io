@@ -21,7 +21,7 @@ editPost:
 
 ##### Download
 
-+ [Paper](paper.pdf)
++ [Paper](corporate-law-and-vulnerability-disclosure-policies.pdf)
 
 ---
 
