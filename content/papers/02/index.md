@@ -40,7 +40,7 @@ This paper explores the intersection of corporate law and cybersecurity through 
 ![](figure2.png)
 
 
-##### Figure 3:  Effect of VDPs on the Average increase of CVEs Per Year (Percent)
+##### Figure 3:  Effect of VDPs on the Average increase of CVEs Per Year (Percent) in Top-50 Companies with Most Disclosures
 
 ![](figure3.png)
 
