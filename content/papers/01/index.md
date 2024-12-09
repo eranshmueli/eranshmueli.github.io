@@ -39,9 +39,5 @@ Prinzel, Florianus, and Moritz-Maria von Igelfeld. 2004. "The Finer Points of Sa
 author = {Eran Shmuëli},
 year = {2022},
 title ={Beyond the Algorithm: Redefining IP for the Age of AI},
-journal = {Journal of Canine Science},
-volume = {43},
-number = {2},
-pages = {89--109},
-url = {http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs}}
+url = {https://eranshmueli.com/papers/01/beyond-the-algorithm.pdf}}
 ```
