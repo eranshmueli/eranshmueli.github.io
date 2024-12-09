@@ -12,7 +12,7 @@ cover:
     alt: "Corporate Law and Vulnerability Disclosure Policies"
     relative: false
 editPost:
-    URL: ""
+    URL: " "
     Text: "Seminar Paper"
 
 ---
