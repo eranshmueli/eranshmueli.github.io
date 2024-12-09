@@ -32,7 +32,8 @@ This paper explores the eligibility of AI-generated creations for copyright prot
 
 ##### Citation
 
-Prinzel, Florianus, and Moritz-Maria von Igelfeld. 2004. "The Finer Points of Sausage Dogs." *Journal of Canine Science* 43 (2): 89–109. http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs.
+Shmuëli, Eran. 2022. "Beyond the Algorithm: Redefining IP for the Age of AI." https://eranshmueli.com/papers/01/beyond-the-algorithm.pdf.
+
 
 ```BibTeX
 @misc{S22,
