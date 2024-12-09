@@ -11,7 +11,6 @@ cover:
     alt: "Dimensions of a sausage dog"
     relative: false
 editPost:
-    URL: " "
     Text: "Pro-Seminar Paper"
 
 ---
