@@ -82,10 +82,10 @@ params:
           url: cv.pdf
         - name: Email
           url: mailto:eran.shmueli999@gmail.com
-        - name: linkedin
-          url: https://linkedin.com/in/eran-shmueli-91134a30a
-        - name: Google Scholar
-          url: https://scholar.google.com/
+        # - name: linkedin
+        #   url: https://linkedin.com/in/eran-shmueli-91134a30a
+        # - name: Google Scholar
+        #   url: https://scholar.google.com/
         # - name: Zoom
         #   url: https://www.zoom.us/my/igelfeld
         # - name: Location
