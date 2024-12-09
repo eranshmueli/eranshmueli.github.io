@@ -11,7 +11,7 @@ cover:
     alt: "Dimensions of a sausage dog"
     relative: false
 editPost:
-    URL: "n "
+    URL: "beyond-the-algorithm.pdf"
     Text: "Pro-Seminar Paper"
 
 ---
