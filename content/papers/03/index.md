@@ -25,6 +25,7 @@ editPost:
 
 ##### Download
 
++ [Original Paper](the-weaponization-of-everything.pdf)
 + [Published Article](https://heyzine.com/flip-book/7305022313.html/#page/36)
 
 ---
@@ -55,8 +56,7 @@ url = {https://heyzine.com/flip-book/7305022313.html}}
 
 ##### Related material
 
-+ [Article PDF File](buchmanninst-2024.pdf)
-+ [Original Paper](the-weaponization-of-everything.pdf)
++ [Published Article (PDF)](buchmanninst-2024.pdf)
 
 <!--
 + [Working definition of Antisemitism](https://holocaustremembrance.com/resources/working-definition-antisemitism)
